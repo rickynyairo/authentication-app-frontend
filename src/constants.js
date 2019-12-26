@@ -1,1 +1,0 @@
-export const API_URL = "https://tracom-spring-api.herokuapp.com/api/";
